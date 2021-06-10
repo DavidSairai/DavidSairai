@@ -7,6 +7,16 @@ DavidSairai/DavidSairai is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+ ![Twitter Follow](https://img.shields.io/twitter/follow/davidsairai?style=social) ![GitHub followers](https://img.shields.io/github/followers/davidsairai?style=social)
+ ---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"  width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg"  width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"  width="50" height="50"/> 
+
+---
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidsairai&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidsairai)](https://github.com/anuraghazra/github-readme-stats)
