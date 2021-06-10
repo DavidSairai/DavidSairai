@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidSairai and IT proffesional working at KCS in Stellnebosch Cape Town. 
 - 🌱 I’m currently learning using JavaScript, HTML and CSS
-👯 I’m looking to collaborate on Github Readme Stats
+- 👯 I’m looking to collaborate on Github Readme Stats
 
 <!---
 DavidSairai/DavidSairai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
