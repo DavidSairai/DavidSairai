@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
  ![Twitter Follow](https://img.shields.io/twitter/follow/davidsairai?style=social) 
  
- [GitHub followers](https://img.shields.io/github/followers/davidsairai?style=social)
+ ![GitHub followers](https://img.shields.io/github/followers/davidsairai?style=social)
  ---
 
 🧰 Toolbox
