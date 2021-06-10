@@ -7,7 +7,7 @@ DavidSairai/DavidSairai is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
- [Twitter Follow](https://img.shields.io/twitter/follow/davidsairai?style=social) 
+ ![Twitter Follow](https://img.shields.io/twitter/follow/davidsairai?style=social) 
  
  [GitHub followers](https://img.shields.io/github/followers/davidsairai?style=social)
  ---
