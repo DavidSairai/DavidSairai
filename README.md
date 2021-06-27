@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidSairai and IT proffesional working at KCS in Stellnebosch Cape Town. 
-- 🌱 I’m currently learning using JavaScript, Python, HTML and CSS
+- 🌱 I’m currently learning using JavaScript, Python, HTML and CSS (pHp coming soon)
 - 👯 I’m looking to collaborate on projects
 
 <!---
