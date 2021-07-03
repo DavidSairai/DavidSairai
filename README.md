@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidSairai and IT proffesional working at KCS in Stellnebosch Cape Town. 
+- 👋 Hi, I’m @David Sairai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> and IT proffesional working at KCS in Stellnebosch Cape Town. 
 - 🌱 I’m currently learning using JavaScript, Python, HTML and CSS (pHp coming soon)
 - 👯 I’m looking to collaborate on projects
 
