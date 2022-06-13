@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt="Azure Logo" width="80" height="80"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt="Azure Logo" width="80" height="80"/> 
 </p>
 
 
