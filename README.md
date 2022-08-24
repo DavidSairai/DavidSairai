@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @David Sairai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> and IT proffesional working at KCS in Stellenbosch Cape Town. 
-- 🌱 I’m currently learning using JavaScript, Python, HTML and CSS (pHp coming soon)
+- 👋 Hi, I’m @David Sairai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> and ERP Support Enginerer working in Stellenbosch Cape Town. 
+- 🌱 I’m currently learning using JavaScript, Python, MEAN, MERN Stacks (Python and pHp coming soon)
 - 👯 I’m looking to collaborate on projects
 
 <!---
